@@ -1,0 +1,10 @@
+-Dfile.encoding=UTF-8
+-Dstdout.encoding=UTF-8
+-Dstderr.encoding=UTF-8
+-classpath
+"C:\\Users\\t990421\\Java_Masterpiece_4e_Study\\Masterpiece_4e\\bin"
+-XX:+ShowCodeDetailsInExceptionMessages
+ch3n1.MainParameter
+abc
+3
+5.7
